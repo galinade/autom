@@ -33,7 +33,7 @@ public class CashbackHackServiceTest {
         assertEquals(expected,result);
 
     }
-    //@Test
+    @Test
     public void remain3() {
         CashbackHackService service = new CashbackHackService();
         int expected = 0;
